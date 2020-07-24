@@ -1,2 +1,2 @@
 # Project-Bookshelf
-project Bookshelf with JavaScript 
+project Bookshelf 
